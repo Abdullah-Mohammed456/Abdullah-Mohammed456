@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! I'm **Abdullah Mohammed**, a third-year **Computer Science student at Ain Shams University**.
+# About Me:
+Hi! I'm **Abdullah Mohammed**, a third-year **Computer Science student CS Department at Ain Shams University**.
 
 I'm passionate about **Full-Stack Development**, with a growing focus on building scalable and well-structured backend applications.
 
@@ -27,7 +27,6 @@ My goal is simple: **keep learning, keep building, and become a highly skilled S
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdullah-Mohammed456&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
