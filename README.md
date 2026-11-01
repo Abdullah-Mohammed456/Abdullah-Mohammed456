@@ -1,4 +1,4 @@
-# ---------------- [My Portfolio](https://abdallah.is-a.dev) ----------------
+# ----------------> [My Portfolio](https://abdallah.is-a.dev) <----------------
 # About Me:
 Hi! I'm **Abdullah Mohammed**, a third-year **Computer Science student CS Department at Ain Shams University**.
 
